@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BuildingEscape1",
+			"Path": "D:\\ACV\\Clones\\BuildingEscapeUnrealProject\\BuildingEscape1\\Source\\BuildingEscape1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BuildingEscape1Editor",
+			"Path": "D:\\ACV\\Clones\\BuildingEscapeUnrealProject\\BuildingEscape1\\Source\\BuildingEscape1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

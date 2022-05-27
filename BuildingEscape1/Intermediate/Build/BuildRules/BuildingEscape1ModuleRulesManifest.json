@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ACV\\Clones\\BuildingEscapeUnrealProject\\BuildingEscape1\\Source\\BuildingEscape1\\BuildingEscape1.Build.cs",
+		"D:\\ACV\\Clones\\BuildingEscapeUnrealProject\\BuildingEscape1\\Source\\BuildingEscape1.Target.cs",
+		"D:\\ACV\\Clones\\BuildingEscapeUnrealProject\\BuildingEscape1\\Source\\BuildingEscape1Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}
