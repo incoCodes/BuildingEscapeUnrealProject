@@ -11,16 +11,16 @@ UPostionReport::UPostionReport()
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
 
-	// ...
+	FString ObjectName = GetOwner()->GetName();
+	UE_LOG(LogTemp, Warning, TEXT("Position report reporting on %s"), *ObjectName);
 }
-
 
 // Called when the game starts
 void UPostionReport::BeginPlay()
 {
 	Super::BeginPlay();
 
-	// ...
+
 	
 }
 
